@@ -1,2 +1,2 @@
 # Selenium_TestNG
-TestNG concepts are available here
+TestNG concepts are available here.
