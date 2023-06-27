@@ -4,10 +4,6 @@
     <packages>
        <package name="testngFiles" />
         <package name="packTwo"/>
-       
-       
     </packages>
-    
     </test>
-    
 </suite>
