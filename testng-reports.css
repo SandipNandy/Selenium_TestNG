@@ -1,23 +1,18 @@
 body {
     margin: 0px 0px 5px 5px;
 }
-
 ul {
     margin: 0px;
 }
-
 li {
     list-style-type: none;
 }
-
 a {
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
 }
-
 .navigator-selected {
     background: #ffa500;
 }
