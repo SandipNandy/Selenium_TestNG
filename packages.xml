@@ -12,7 +12,8 @@
               
             <exclude name="FlightBooking" />
               
- </methods>     
+ </methods>
+            
       </class> 
        <class name="testngFiles.Annot2" /> 
     </classes>
