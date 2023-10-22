@@ -9,6 +9,7 @@
         <class name="testngFiles.Annotations">
             
           <methods>
+              
             <exclude name="FlightBooking" />
  </methods>     
       </class> 
