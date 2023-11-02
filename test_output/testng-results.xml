@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <testng-results skipped="0" failed="0" total="3" passed="3">
+  
   <reporter-output>
   </reporter-output>
   <suite name="Automation Test" duration-ms="78" started-at="2015-01-16T04:20:17Z" finished-at="2015-01-16T04:20:17Z">
