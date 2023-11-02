@@ -9,6 +9,7 @@
     <groups>
     </groups>
     <test name="Smoke Testcases" duration-ms="78" started-at="2015-01-16T04:20:17Z" finished-at="2015-01-16T04:20:17Z">
+      
       <class name="testngFiles.Annot2">
         <test-method status="PASS" signature="installsoftware()[pri:0, instance:testngFiles.Annot2@4a62f5b]" name="installsoftware" is-config="true" duration-ms="18" started-at="2015-01-16T09:50:16Z" finished-at="2015-01-16T09:50:17Z">
           <reporter-output>
