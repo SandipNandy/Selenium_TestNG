@@ -28,6 +28,7 @@
         </test-method> <!-- deinstallsoftware -->
       </class> <!-- testngFiles.Annot2 -->
       <class name="testngFiles.Annotations">
+       
         <test-method status="PASS" signature="Cookies()[pri:0, instance:testngFiles.Annotations@622e3f2]" name="Cookies" is-config="true" duration-ms="0" started-at="2015-01-16T09:50:17Z" finished-at="2015-01-16T09:50:17Z">
           <reporter-output>
           </reporter-output>
