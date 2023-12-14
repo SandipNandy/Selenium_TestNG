@@ -3,7 +3,6 @@
     <test name="Smoke Testcases">
     <packages>
        <package name="testngFiles" />
-        
         <package name="packTwo"/>
         
     </packages>
